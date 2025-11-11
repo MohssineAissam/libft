@@ -11,7 +11,6 @@
 * [About the Project](#about-the-PROJECT)
 * [Functions Implemented](#functions-implemented)
 * [How to Use](#how-to-use)
-* [Author](#author)
 
 ---
 
